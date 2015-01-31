@@ -1,7 +1,7 @@
 var gulp = require('gulp'),
 	$ = require('gulp-load-plugins')(); // автоматическая загрузка плагинов gulp
 gulp.task('templates', function(){
-	return gulp.src('src/templates/**/*.jade')
+	return gulp.src('src/templates/index.jade')
 		.pipe($.jade({
 			pretty: true
 		})) // компилируем jade в html
