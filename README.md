@@ -24,12 +24,12 @@
                               |----li.product-list--item
                               |----li.product-list--item
                               |----li.product-list--item
-                  	|----p.main-text
+                  	    |----p.main-text
                   |----.footer
-                  	|----.footer-logo
-                  	|----.footer-about
-                  	|----.footer-catalog
-                  	|----.footer-contacts
-                  	|----.social-buttons
+                  	    |----.footer-logo
+                  	    |----.footer-about
+                  	    |----.footer-catalog
+                  	    |----.footer-contacts
+                  	    |----.social-buttons
                   |----.top-button
           
